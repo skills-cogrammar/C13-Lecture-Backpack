@@ -31,4 +31,4 @@ This repository is structured into four main folders, each targeting a specific 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-Happy Learning! 🎓
+Happy Learning! 🎓 
