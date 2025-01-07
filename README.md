@@ -1,7 +1,5 @@
 # 🎒 Lecture Backpack
 
-[Quickstart Guide](https://youtu.be/M2MO06bIJRI) (TL;DR Video)
-
 Welcome to the Lecture Backpack 🚀, a comprehensive resource repository designed for students and enthusiasts in Leadership and Management in Tech, Digital Marketing Our goal is to provide an all-encompassing learning experience that caters to a wide range of educational needs.
 
 ## Overview 📚
@@ -31,4 +29,4 @@ This repository is structured into four main folders, each targeting a specific 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-Happy Learning! 🎓 
+Happy Learning! 🎓
